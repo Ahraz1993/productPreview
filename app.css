@@ -189,7 +189,11 @@ button:hover{
     
     img{
         max-width: 50%;
+        object-fit: cover;
+        display:inline-block;
+        height:auto;
         border-radius: 1rem 0rem 0rem 1rem;
+        
     }
     .description{
         
